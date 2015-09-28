@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#wrapper{
+    margin: 0px auto;
+    width: 900px;
+    overflow: hidden;
+    background-color: darkgreen;
+    color: lightgreen;
+}
